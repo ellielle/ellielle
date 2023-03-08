@@ -1,6 +1,6 @@
 <div align="center">
   <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=ellielle&show_icons=true&count_private=true&theme=tokyonight&bg_color=00000000" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=ellielle&show_icons=true&count_private=true&theme=tokyonight&bg_color=00000000&border_color=8c9094" media="(prefers-color-scheme: dark)" />
     <source srcset="https://github-readme-stats.vercel.app/api?username=ellielle&show_icons=true&count_private=true" media="(prefers-color-scheme: no-preference)" />
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ellielle&show_icons=true&count_private=true" alt="Graph of Ellielle's repo statistics" />
   </picture>
