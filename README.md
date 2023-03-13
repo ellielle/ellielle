@@ -1,4 +1,9 @@
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#4](https://github.com/ellielle/vitamin-nuxt3/pull/4) in [ellielle/vitamin-nuxt3](https://github.com/ellielle/vitamin-nuxt3)
+2. 💪 Opened PR [#4](https://github.com/ellielle/vitamin-nuxt3/pull/4) in [ellielle/vitamin-nuxt3](https://github.com/ellielle/vitamin-nuxt3)
+3. 🎉 Merged PR [#3](https://github.com/ellielle/vitamin-nuxt3/pull/3) in [ellielle/vitamin-nuxt3](https://github.com/ellielle/vitamin-nuxt3)
+4. 💪 Opened PR [#3](https://github.com/ellielle/vitamin-nuxt3/pull/3) in [ellielle/vitamin-nuxt3](https://github.com/ellielle/vitamin-nuxt3)
+5. ❌ Closed PR [#2](https://github.com/ellielle/vitamin-nuxt3/pull/2) in [ellielle/vitamin-nuxt3](https://github.com/ellielle/vitamin-nuxt3)
 <!--END_SECTION:activity-->
 
 <div align="center">
