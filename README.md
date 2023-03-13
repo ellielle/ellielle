@@ -1,3 +1,6 @@
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <div align="center">
   <picture>
     <source srcset="https://github-readme-stats-g7hd.vercel.app/api?username=ellielle&show_icons=true&count_private=true&theme=tokyonight&bg_color=00000000&border_color=8c9094" media="(prefers-color-scheme: dark)" />
