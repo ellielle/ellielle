@@ -13,7 +13,5 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: jamesgeorge007/github-activity-readme@master
-        with: 
-          node_version: '16'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
