@@ -1,7 +1,8 @@
 <p align="center">
   <samp>
+    .
     <a href="https://ellielle.github.io">me</a> .
-    <a href="https://ellielle.github.io/projects">projects</a> 
+    <a href="https://ellielle.github.io/projects">projects</a> .
   </samp>
 </p>
 
