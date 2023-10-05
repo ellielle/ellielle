@@ -10,4 +10,6 @@
     <source srcset="https://github.com/ellielle/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" media="(prefers-color-scheme: no-preference)" />
     <img align="center" src="https://github-readme-stats-g7hd.vercel.app//api?username=ellielle&show_icons=true&count_private=true" alt="Graph of Ellielle's repo languages"/>
   </picture>
+
+  <!--START_SECTION:activity-->
 </div>
