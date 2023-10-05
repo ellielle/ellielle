@@ -12,4 +12,10 @@
   </picture>
 
   <!--START_SECTION:activity-->
+1. 🚀 Published release [v0.2.7](https://github.com/ellielle/gw2-wiki-dark/releases/tag/v0.2.7) in [ellielle/gw2-wiki-dark](https://github.com/ellielle/gw2-wiki-dark)
+2. 🎉 Merged PR [#3](https://github.com/ellielle/gw2-wiki-dark/pull/3) in [ellielle/gw2-wiki-dark](https://github.com/ellielle/gw2-wiki-dark)
+3. 💪 Opened PR [#3](https://github.com/ellielle/gw2-wiki-dark/pull/3) in [ellielle/gw2-wiki-dark](https://github.com/ellielle/gw2-wiki-dark)
+4. 🎉 Merged PR [#6](https://github.com/ellielle/ellielle.github.io/pull/6) in [ellielle/ellielle.github.io](https://github.com/ellielle/ellielle.github.io)
+5. 💪 Opened PR [#6](https://github.com/ellielle/ellielle.github.io/pull/6) in [ellielle/ellielle.github.io](https://github.com/ellielle/ellielle.github.io)
+<!--END_SECTION:activity-->
 </div>
