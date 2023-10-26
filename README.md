@@ -33,15 +33,11 @@
         <samp>Languages / Frameworks</samp>
       </td>
         <td align="center">
-          <code><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" /></code>
-          <code><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript" /></code>
-          <code><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" alt="Vuejs"/></code>
-          <code><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/></code>
-          <code><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Nextjs" /></code>
-          <code><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vuejs"/></code>
-          <code><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt" /></code>
-          <code><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Html" /></code>
-          <code><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" /></code>
+          <p align="center">
+            <a href="https://skillicons.dev">
+              <code><img height="28" src="https://skillicons.dev/icons?i=typescript,javascript,svelte,vue,react,nextjs,nuxt,html,css" alt="Languages and frameworks" /></code>
+            </a>
+          </p>          
         </td>
       </tr>
       <tr>
@@ -49,15 +45,11 @@
         <samp>Tools</samp>
       </td>
       <td align="center">
-        <code><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="Node.js"/></code>
-        <code><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS"/></code>
-        <code><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest"/></code>
-        <code><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgresQL" /></code>
-        <code><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux"/></code>
-        <code><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" /></code>
-        <code><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="VSCode" /></code>
-        <code><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" /></code>
-        <code><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="Docker"/></code>
+        <p align="center">
+          <a href="https://skillicons.dev">
+            <code><img height="28" src="https://skillicons.dev/icons?i=nodejs,tailwind,jest,postgres,linux,neovim,vscode,git,docker" alt="Languages and frameworks" /></code>
+          </a>
+        </p>
       </td>
     </tr>
   </table>
