@@ -20,7 +20,7 @@
         <picture>
           <source srcset="https://github.com/ellielle/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)" />
           <source srcset="https://github.com/ellielle/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" media="(prefers-color-scheme: no-preference)" />
-          <img align="center" height="200" src="https://github-readme-stats-g7hd.vercel.app//api?username=ellielle&show_icons=true&count_private=true" alt="Ellielle's repo languages"/>
+          <img align="center" height="200" src="https://github-readme-stats-g7hd.vercel.app//api?username=ellielle&show_icons=true&count_private=true" alt="ellielle's repo languages"/>
         </picture>
       </td>
     </tr>
@@ -49,12 +49,13 @@
         <samp>Tools</samp>
       </td>
       <td align="center">
-        <code><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"          alt="VSCode" /></code>
         <code><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="Node.js"/></code>
         <code><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS"/></code>
         <code><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest"/></code>
         <code><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgresQL" /></code>
         <code><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux"/></code>
+        <code><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" /></code>
+        <code><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-plain.svg" alt="VSCode" /></code>
         <code><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" /></code>
         <code><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="Docker"/></code>
       </td>
