@@ -35,7 +35,7 @@
         <td align="center">
           <p align="center">
             <a href="https://skillicons.dev">
-              <code><img height="28" src="https://skillicons.dev/icons?i=typescript,javascript,svelte,vue,react,nextjs,nuxt,html,css" alt="Languages and frameworks" /></code>
+              <code><img height="28" src="https://skillicons.dev/icons?i=typescript,javascript,py,go,svelte,vue,react,html,css" alt="Languages and frameworks" /></code>
             </a>
           </p>          
         </td>
