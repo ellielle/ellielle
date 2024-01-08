@@ -10,7 +10,7 @@
   <table>
     <tr>
       <td>
-        <img align="center" height="200" src="https://raw.githubusercontent.com/ellielle/gh-profile-summary-cards/master/profile-summary-card-output/transparent/0-profile-details.svg" alt="Ellielle's repo statistics" />
+        <img align="center" height="170" src="https://raw.githubusercontent.com/ellielle/gh-stats-cards/master/profile-summary-card-output/transparent/0-profile-details.svg" alt="Ellielle's repo statistics" />
       </td>
       <td>
         <picture>
