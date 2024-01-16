@@ -10,14 +10,10 @@
   <table>
     <tr>
       <td>
-        <img align="center" height="170" src="https://raw.githubusercontent.com/ellielle/gh-stats-cards/master/profile-summary-card-output/transparent/0-profile-details.svg" alt="Ellielle's repo statistics" />
+        <img align="center" height="200" src="https://raw.githubusercontent.com/ellielle/gh-stats-cards/master/profile-summary-card-output/transparent/0-profile-details.svg" alt="ellielle's repo statistics" />
       </td>
       <td>
-        <picture>
-          <source srcset="https://github.com/ellielle/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)" />
-          <source srcset="https://github.com/ellielle/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" media="(prefers-color-scheme: no-preference)" />
-          <img align="center" height="200" src="https://github-readme-stats-g7hd.vercel.app//api?username=ellielle&show_icons=true&count_private=true" alt="ellielle's repo languages"/>
-        </picture>
+        <img align="center" height="200" src="https://raw.githubusercontent.com/ellielle/gh-stats-cards/master/profile-summary-card-output/transparent/2-most-commit-language.svg" alt="ellielle's repo languages"/>
       </td>
     </tr>
 </div>
@@ -31,7 +27,7 @@
         <td align="center">
           <p align="center">
             <a href="https://skillicons.dev">
-              <code><img height="28" src="https://skillicons.dev/icons?i=typescript,javascript,py,go,svelte,vue,react,html,css" alt="Languages and frameworks" /></code>
+              <code><img height="28" src="https://skillicons.dev/icons?i=typescript,javascript,py,go,lua,html,css" alt="Languages and frameworks" /></code>
             </a>
           </p>          
         </td>
@@ -43,7 +39,7 @@
       <td align="center">
         <p align="center">
           <a href="https://skillicons.dev">
-            <code><img height="28" src="https://skillicons.dev/icons?i=nodejs,tailwind,jest,postgres,linux,neovim,vscode,git,docker" alt="Languages and frameworks" /></code>
+            <code><img height="28" src="https://skillicons.dev/icons?i=nodejs,tailwind,githubactions,postgres,linux,neovim,vscode,git,docker" alt="Languages and frameworks" /></code>
           </a>
         </p>
       </td>
