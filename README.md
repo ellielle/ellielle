@@ -9,18 +9,6 @@
 <div align="center">
   <table>
     <tr>
-      <td>
-        <img align="center" height="200" src="https://raw.githubusercontent.com/ellielle/gh-stats-cards/master/profile-summary-card-output/transparent/0-profile-details.svg" alt="ellielle's repo statistics" />
-      </td>
-      <td>
-        <img align="center" height="200" src="https://raw.githubusercontent.com/ellielle/gh-stats-cards/master/profile-summary-card-output/transparent/2-most-commit-language.svg" alt="ellielle's repo languages"/>
-      </td>
-    </tr>
-</div>
-
-<div>
-  <table>
-    <tr>
       <td align="center">
         <samp>Languages / Frameworks</samp>
       </td>
