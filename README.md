@@ -1,8 +1,8 @@
 <p align="center">
   <samp>
     .
-    <a href="https://ellielle.github.io">me</a> .
-    <a href="https://ellielle.github.io/projects">projects</a> .
+    <a href="https://ellielle.github.io">me</a>
+    .
   </samp>
 </p>
 
@@ -15,8 +15,6 @@
 
 ### Connect With Me
 
-
-You can find me [here on LinkedIn](https://www.linkedin.com/in/nlamour/)
-
-You can also find me:
-- [Boot.dev](https://www.boot.dev/u/ellielle)
+- You can find me [here on LinkedIn](https://www.linkedin.com/in/nlamour/)
+- You can also find me:
+  - [Boot.dev](https://www.boot.dev/u/ellielle)
