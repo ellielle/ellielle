@@ -15,6 +15,6 @@
 
 ### Connect With Me
 
-- You can find me [here on LinkedIn](https://www.linkedin.com/in/nlamour/)
-- You can also find me:
+- You can find me:
+  - [LinkedIn](https://www.linkedin.com/in/nlamour/)
   - [Boot.dev](https://www.boot.dev/u/ellielle)
