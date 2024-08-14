@@ -1,11 +1,3 @@
-<p align="center">
-  <samp>
-    .
-    <a href="https://ellielle.github.io">me</a>
-    .
-  </samp>
-</p>
-
 ### Hi, I'm Noelle L'Amour
 
 - <img src="https://cdn.simpleicons.org/typescript" height="16" alt="typescript logo" /> I've been coding in JavaScript/TypeScript for about 3 years
@@ -18,3 +10,4 @@
 - You can find me:
   - [LinkedIn](https://www.linkedin.com/in/nlamour/)
   - [Boot.dev](https://www.boot.dev/u/ellielle)
+  - [Portfolio](https://ellielle.github.io)
