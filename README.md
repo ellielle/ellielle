@@ -10,4 +10,3 @@
 - You can find me:
   - [LinkedIn](https://www.linkedin.com/in/nlamour/)
   - [Boot.dev](https://www.boot.dev/u/ellielle)
-  - [Portfolio](https://ellielle.github.io)
